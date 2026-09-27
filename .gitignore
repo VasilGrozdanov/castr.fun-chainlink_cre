@@ -1,0 +1,5 @@
+.env
+.cre_build_tmp.js
+node_modules/
+dist/
+*.wasm

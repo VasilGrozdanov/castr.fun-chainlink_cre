@@ -1,0 +1,9 @@
+{
+  "cronSchedule": "0 0 */24 * * *",
+  "chainSelectorName": "ethereum-testnet-sepolia-base-1",
+  "rewardResolverAddress": "0xEfe4Cb3f7A13e98A94804C8e64992e1471A8dC90",
+  "feeAccountAddress": "0x2b6395f0A449dC467Abc1eE487915249A6931468",
+  "subgraphUrl": "https://api.goldsky.com/api/private/project_cmm37hyzvnthm01undara38xm/subgraphs/test-subgraph-base-sepolia/3.0.0/gn",
+  "gracePeriodSeconds": 43200,
+  "reportGasLimit": "500000"
+}

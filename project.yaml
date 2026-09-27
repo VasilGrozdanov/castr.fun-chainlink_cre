@@ -1,10 +1,10 @@
 staging-settings:
   rpcs:
     # NEED: verify the Base Sepolia RPC endpoint you want to use for simulation/testnet deploys.
-    - chain-name: ethereum-testnet-sepolia-base-1
-      url: https://sepolia.base.org
+    - chain-name: robinhood-testnet
+      url: https://rpc.testnet.chain.robinhood.com
 production-settings:
   rpcs:
     # NEED: verify the Base mainnet chain selector and use a private/production RPC endpoint.
-    - chain-name: ethereum-mainnet-base-1
-      url: https://mainnet.base.org
+    - chain-name: robinhood-mainnet
+      url: https://rpc.mainnet.chain.robinhood.com

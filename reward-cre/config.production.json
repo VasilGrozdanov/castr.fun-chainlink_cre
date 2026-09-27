@@ -3,7 +3,7 @@
   "chainSelectorName": "ethereum-mainnet-base-1",
   "rewardResolverAddress": "0xREPLACE_WITH_REWARD_RESOLVER_ADDRESS",
   "feeAccountAddress": "0xREPLACE_WITH_FEE_ACCOUNT_ADDRESS",
-  "subgraphUrl": "https://api.goldsky.com/api/private/project_cmm37hyzvnthm01undara38xm/subgraphs/test-subgraph-base-sepolia/3.0.0/gn",
+  "subgraphUrl": "https://api.goldsky.com/api/private/project_cmm37hyzvnthm01undara38xm/subgraphs/test-subgraph-arc-testnet/3.0.0/gn",
   "gracePeriodSeconds": 43200,
   "reportGasLimit": "500000"
 }
